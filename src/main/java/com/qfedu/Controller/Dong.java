@@ -8,5 +8,9 @@ public class Dong {
         System.out.println("杜俊红");
 
         System.out.println(123456);
+        System.out.println(11);
+        System.out.println(22);
+        System.out.println(4561123);
+
     }
 }
