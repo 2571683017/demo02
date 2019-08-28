@@ -6,5 +6,8 @@ public class Dong {
         System.out.println("元尊");
 
         System.out.println("杜俊红");
+
+        System.out.println(11);
+        System.out.println(22);
     }
 }
